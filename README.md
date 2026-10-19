@@ -52,7 +52,7 @@ A three-tier Azure environment built entirely as code: a private network, a bast
 | 6 | Destroy, then rebuild from a fresh clone | Pass |
 | 7 | State is remote and locked | Pass |
 
-Screenshots for each test are in `docs/evidence/`. Blur public IPs before publishing.
+Screenshots for each test are in `docs/evidence/`.
 
 ## Design decisions
 
